@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{302C38FA-ED3C-49CE-BF52-C5A62B9A3692}|BussinessObject\\BussinessObject.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\bussinessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{302C38FA-ED3C-49CE-BF52-C5A62B9A3692}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|d:\\source_code\\sc_prn231\\assignment\\prn231_asm02_ebookstore\\ebookstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\ebookstore\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\ebookstore\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A140D92-4C3A-4736-8765-4DC5B49A70BF}|eBookStoreWebAPI\\eBookStoreWebAPI.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\ebookstorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A140D92-4C3A-4736-8765-4DC5B49A70BF}|eBookStoreWebAPI\\eBookStoreWebAPI.csproj|solutionrelative:ebookstorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91260066-F01E-4BC1-B1E5-7E177A8BEAB6}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\dataaccess\\daos\\authordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91260066-F01E-4BC1-B1E5-7E177A8BEAB6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\authordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\ebookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302C38FA-ED3C-49CE-BF52-C5A62B9A3692}|BussinessObject\\BussinessObject.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\bussinessobject\\dataaccess\\prn231asm2ebookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302C38FA-ED3C-49CE-BF52-C5A62B9A3692}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\dataaccess\\prn231asm2ebookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\ebookstore\\ebookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90E7B333-8F15-4554-9324-E99F23D8AB57}|eBookStore\\eBookStore.csproj|solutionrelative:ebookstore\\ebookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B669929-C6A6-40BC-8528-62E79AE3AAE9}|Solution Items{9B669929-C6A6-40BC-8528-62E79AE3AAE9}|D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9B669929-C6A6-40BC-8528-62E79AE3AAE9}|Solution Items{9B669929-C6A6-40BC-8528-62E79AE3AAE9}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 48,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:79:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:72:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:91:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:93:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:94:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:89:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "eBookStore\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "eBookStore\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:05:01.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Users\\Register.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Users\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T14:03:59.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "eBookStore\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "eBookStore\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T14:03:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "eBookStoreWebAPI\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStoreWebAPI\\appsettings.json*",
+              "RelativeToolTip": "eBookStoreWebAPI\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T14:03:31.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorDAO.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\DataAccess\\DAOs\\AuthorDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\AuthorDAO.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\DataAccess\\DAOs\\AuthorDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\AuthorDAO.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:03:21.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prn231Asm2EBookStoreContext.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\BussinessObject\\DataAccess\\Prn231Asm2EBookStoreContext.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\DataAccess\\Prn231Asm2EBookStoreContext.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\BussinessObject\\DataAccess\\Prn231Asm2EBookStoreContext.cs",
+              "RelativeToolTip": "BussinessObject\\DataAccess\\Prn231Asm2EBookStoreContext.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAuwFwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:56:14.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\BussinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BussinessObject\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\BussinessObject\\appsettings.json",
+              "RelativeToolTip": "BussinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T13:38:51.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "eBookStore\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\appsettings.json",
+              "RelativeToolTip": "eBookStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T13:38:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eBookStore",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\eBookStore.csproj",
+              "RelativeDocumentMoniker": "eBookStore\\eBookStore.csproj",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\eBookStore\\eBookStore.csproj",
+              "RelativeToolTip": "eBookStore\\eBookStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T13:38:42.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\ASSIGNMENT\\PRN231_ASM02_EBookStore\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-14T13:38:09.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
